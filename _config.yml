@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Daniel Alcalde Puente
 github:
-  is_project_page: false
+is\_project\_page:false
