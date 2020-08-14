@@ -1,19 +1,31 @@
 ---
 title: Daniel Alcalde Puente
-description: [A short description of your site's purpose]
 ---
+<a href="">
+<table><tr>
+<td vlign="center"> <a href="https://twitter.com/AlcaldePuente"><img src="files/twitter.svg" height="20"/> @AlcaldePuente </a></td>
+<td vlign="center"> <a href="https://www.linkedin.com/in/daniel-alcalde-puente-563770174/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="20"/> </a></td>
+</tr></table>
+
 
 ## About me
+Through my life I have had many interest that came and went, but physics and programming have been long passions of mine. I started programming when I was 12 in the German School in Madrid and persued my interest in physics in my education at the Ruhr Universität Bochum where I finished a Bachelor's and Master's in physics whith focus on computational solid state Physics and Machine Learning. During this time, I fell in love with python and used it for not only my masters thesis but also in my free time for small projects from programming an Alexa skill to analyzing covid-19 infection data. 
+  
+I am currently (2020) looking at opportunities for a Ph.D. position in the nexus of machine learning and solid-state physics.
 
 ## Master Thesis
-[*Analysis of the Ising and Kitaev Model Using the CRBM Aided Monte Carlo Method*](https://danielalcalde.github.io/files/Master-Thesis-Daniel-Alcalde-Puente.pdf)  
-  
-This is my master thesis, which I completed in the Ruhr Universität Bochum. A shortened and improved version of chapter 4, 5 can be found in preprint [1]. Chapter 6 remains unpublished.  
+During my studies in physics, I developed an interest in Machine Learning and took a few classes. When it came time to do my Master Thesis I already had some experience with Monte Carlo simulations in the context of the Langevine equation for stochastic quantization and had played around with Restricted Boltzmann Machines for another class. After searching I found out that RBMs where being used to speed up Monte Carlo simulations and thought that a convolutional RBM, being translationally invariant would work better since many physical models are translationally invariant. I suggested this topic to my supervisor Prof. I. Eremin and was glad when he accepted it for a master’s thesis. During the master Thesis, I learned how to research and specifically I learned how to run reproducible computational experiments for which I made a small python program called encapsulate. I also learned how to keep up with the growing literature in the field.
+
+[*"Analysis of the Ising and Kitaev Model Using the CRBM Aided Monte Carlo Method"*](files/Master-Thesis-Daniel-Alcalde-Puente.pdf) is my master thesis, which I completed in the Ruhr Universität Bochum. A shortened and improved version of chapter 4, 5 can be found in preprint [1]. Chapter 6 remains unpublished.  
 
 
 
 ## Publications
-* [1] Daniel Alcalde Puente, Ilya M. Eremin, arXiv preprint, *"Convolutional RBM aided Monte Carlo: an application to Ising and Kitaev models"*, [https://arxiv.org/abs/2008.05401](https://arxiv.org/abs/2008.05401)
+* [1] Daniel Alcalde Puente, Ilya M. Eremin, arXiv preprint, *"Convolutional RBM aided Monte Carlo: an application to Ising and Kitaev models"*, [arxiv.org/abs/2008.05401](https://arxiv.org/abs/2008.05401)
 
 
 ## Projects
+ - encapsulate
+ - 
+  
+
