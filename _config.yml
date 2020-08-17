@@ -1,12 +1,16 @@
-#theme: jekyll-theme-slate
 theme: jekyll-theme-cayman
-#theme: jekyll-remote-theme
-#remote_theme: daviddarnes/alembic
-#gems:
-#- jekyll-seo-tag
 
 title: Daniel Alcalde Puente
-description: 
 
+twitter:
+  show: true
+  user: AlcaldePuente
+
+
+linkedin:
+  show: true
+  url: https://www.linkedin.com/in/daniel-alcalde-puente-563770174/
+  
 github:
   repository_url: https://github.com/danielalcalde
+  is_project_page: true

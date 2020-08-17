@@ -6,13 +6,6 @@ title: Daniel Alcalde Puente
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&family=Lora&display=swap" rel="stylesheet">
 
-<a href="">
-<table><tr>
-<td vlign="center"> <a href="https://twitter.com/AlcaldePuente"><img src="files/twitter.svg" height="20"/> @AlcaldePuente </a></td>
-<td vlign="center"> <a href="https://www.linkedin.com/in/daniel-alcalde-puente-563770174/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="20"/> </a></td>
-</tr></table>
-
-
 ## About me
 I had many interests that came and went throughout my life, but physics and programming are two long passions of mine that stayed throughout the years. I started programming when I was 12 in the German School in Madrid and persued my interest in physics at the Ruhr Universität Bochum where I finished a Bachelor and Master degrees in physics with a focus on computational solid state Physics and Machine Learning. During this time, I fell in love with python and used it not only for my Masters thesis but also during my free time for small projects - from programming an Alexa skill to analyzing covid-19 infection data. 
   
