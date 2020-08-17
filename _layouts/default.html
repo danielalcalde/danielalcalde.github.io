@@ -11,6 +11,19 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
+    <script src="XORCipher.js"></script>
+    <script>
+        function get_email() {
+            var address1 = "rub.de"
+            var address2 = "daniel.alcaldepuente"
+            var address = address2 + "@" + address1
+            return address
+        }
+        
+        function open_email() {
+            location.href = "mailto:" + get_email()
+        }
+    </script>
     <meta charset="UTF-8">
 
 {% seo %}
@@ -26,10 +39,13 @@
         <a href="https://twitter.com/{{ site.twitter.user }}" class="btn"><img class="social_image" src="files/twitter.svg"/><span class=social_text>@{{ site.twitter.user }}</span></a>
       {% endif %}
       {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn"><span class=social_text><img class="social_image" src="files/GitHub_Logo_White.png"/></span></a>
+        <a href="{{ site.github.repository_url }}" class="btn"><span class=social_text><img class="social_image" src="files/GitHub_Logo_White.png" height=10px/></span></a>
       {% endif %}
       {% if site.linkedin.show %}
         <a href="{{ site.linkedin.url }}" class="btn"><img class="social_image" src="files/linkedin.svg"/></a>
+      {% endif %}
+      {% if site.email.show %}
+        <a class="btn" onclick="open_email();"><span class=social_text id="email">Email</span></a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
