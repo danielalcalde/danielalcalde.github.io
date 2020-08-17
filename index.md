@@ -1,6 +1,11 @@
 ---
 title: Daniel Alcalde Puente
 ---
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&family=Lora&display=swap" rel="stylesheet">
+
 <a href="">
 <table><tr>
 <td vlign="center"> <a href="https://twitter.com/AlcaldePuente"><img src="files/twitter.svg" height="20"/> @AlcaldePuente </a></td>
@@ -22,3 +27,10 @@ During my studies, I developed an interest in Machine Learning which I strengthe
 
 ## Publications
 * [1] Daniel Alcalde Puente, Ilya M. Eremin, arXiv preprint, *"Convolutional RBM aided Monte Carlo: an application to Ising and Kitaev models"*, [arxiv.org/abs/2008.05401](https://arxiv.org/abs/2008.05401)
+
+
+## Projects
+ - Encapsulate
+ - Apalis
+  
+

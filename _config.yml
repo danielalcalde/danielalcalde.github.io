@@ -1,5 +1,10 @@
 #theme: jekyll-theme-slate
 theme: jekyll-theme-cayman
+#theme: jekyll-remote-theme
+#remote_theme: daviddarnes/alembic
+#gems:
+#- jekyll-seo-tag
+
 title: Daniel Alcalde Puente
 description: 
 

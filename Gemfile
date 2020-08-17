@@ -8,3 +8,5 @@ gem "jekyll"
 gem "kramdown-parser-gfm"
 gem "github-pages", group: :jekyll_plugins
 #gem "jekyll-theme-slate"
+#gem "jekyll-remote-theme"
+#gem "jekyll-seo-tag"
