@@ -1,0 +1,3 @@
+[submodule "repos/apalis"]
+	path = repos/apalis
+	url = https://github.com/danielalcalde/apalis
