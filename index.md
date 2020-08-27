@@ -23,7 +23,10 @@ During my studies, I developed an interest in Machine Learning which I strengthe
 
 
 ## Projects
- - Encapsulate
- - [Apalis ![logo](apalis/_static/apalislogo.svg)](apalis/)
+### [Encapsulate](https://github.com/danielalcalde/encapsulate)
+A simple tool to keep track of computational experiments.
+
+### [![Apalis](_static/apalislogo.svg)](apalis/)  
+ A python library for parallel computing with little overhead.
   
 
