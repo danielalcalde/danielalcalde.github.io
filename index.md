@@ -24,6 +24,6 @@ During my studies, I developed an interest in Machine Learning which I strengthe
 
 ## Projects
  - Encapsulate
- - Apalis
+ - [Apalis ![logo](apalis/_static/apalislogo.svg)](apalis/)
   
 
