@@ -23,7 +23,7 @@ During my studies, I developed an interest in Machine Learning which I strengthe
 
 
 ## Projects
-### [Encapsulate](https://github.com/danielalcalde/encapsulate)
+### [Encap](https://github.com/danielalcalde/encap)
 A simple tool to keep track of computational experiments.
 
 ### [![Apalis](apalis/_static/apalislogo.svg)](apalis/)  
