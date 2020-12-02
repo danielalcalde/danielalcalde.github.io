@@ -19,7 +19,8 @@ During my studies, I developed an interest in Machine Learning which I strengthe
 
 
 ## Publications
-* [1]  D. Alcalde Puente and I. M. Eremin, *"Convolutional restricted Boltzmann machine aided Monte Carlo: An application to Ising and Kitaev models"* [Phys. Rev. B102,195148](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.195148) (2020).
+[1] D. Alcalde Puente and I. M. Eremin, *"Convolutional restricted Boltzmann machine aided Monte Carlo: An application to Ising and Kitaev models"*  
+$\quad$[Phys. Rev. B102,195148](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.195148) (2020).
 
 
 ## Projects
