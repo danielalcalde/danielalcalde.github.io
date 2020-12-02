@@ -19,7 +19,7 @@ During my studies, I developed an interest in Machine Learning which I strengthe
 
 
 ## Publications
-* [1] Daniel Alcalde Puente, Ilya M. Eremin, arXiv preprint, *"Convolutional RBM aided Monte Carlo: an application to Ising and Kitaev models"*, [arxiv.org/abs/2008.05401](https://arxiv.org/abs/2008.05401)
+* [1]  D. Alcalde Puente and I. M. Eremin, *"Convolutional restricted Boltzmann machine aided Monte Carlo: An application to Ising and Kitaev models"* [Phys. Rev. B102,195148](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.195148) (2020).
 
 
 ## Projects
