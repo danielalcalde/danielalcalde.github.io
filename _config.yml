@@ -1,0 +1,19 @@
+theme: jekyll-theme-cayman
+
+title: Daniel Alcalde Puente
+
+twitter:
+  show: true
+  user: AlcaldePuente
+
+linkedin:
+  show: true
+  url: https://www.linkedin.com/in/daniel-alcalde-puente-563770174/
+
+email:
+  show: true
+  url: mailto:Daniel.AlcaldePuente@rub.de
+
+github:
+  repository_url: https://github.com/danielalcalde
+  is_project_page: true
