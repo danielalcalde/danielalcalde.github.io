@@ -24,12 +24,12 @@ During my undergraduate studies I developed an interest in machine learning, whi
 ## Projects
 
  <div>
-    <img src="https://user-images.githubusercontent.com/53435922/217352989-c400e86c-31e0-40cb-a734-004e5994dda8.svg" style="vertical-align: middle;" height="100"/>
+ <a href="https://github.com/danielalcalde/encap"> <img src="https://user-images.githubusercontent.com/53435922/217352989-c400e86c-31e0-40cb-a734-004e5994dda8.svg" style="vertical-align: middle;" width="100"/> </a>
     <span style="vertical-align: middle;">A simple tool to keep track of computational experiments.</span>
 </div>
 
 <div>
-    <img src="apalis/_static/apalislogo.svg" style="vertical-align: middle;" height="100"/>
+    <a href="https://danielalcalde.github.io/apalis/"> <img src="apalis/_static/apalislogo.svg" style="vertical-align: middle;" width="100"/></a>
     <span style="vertical-align: middle;">A python library for parallel computing with little overhead.</span>
 </div>
 
