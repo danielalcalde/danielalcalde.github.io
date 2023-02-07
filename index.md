@@ -22,8 +22,14 @@ During my undergraduate studies I developed an interest in machine learning, whi
 <a style="color:#F04B4E;" href="https://youtu.be/L1btiqB0KZs">Presentation</a>
 
 ## Projects
-[<img src="https://user-images.githubusercontent.com/53435922/217352989-c400e86c-31e0-40cb-a734-004e5994dda8.svg" width="200"/>](https://github.com/danielalcalde/encap) A simple tool to keep track of computational experiments.
 
-[![Apalis](apalis/_static/apalislogo.svg)](apalis/) A python library for parallel computing with little overhead.
-  
+ <div>
+    <img src="https://user-images.githubusercontent.com/53435922/217352989-c400e86c-31e0-40cb-a734-004e5994dda8.svg" style="vertical-align: middle;" height="100"/>
+    <span style="vertical-align: middle;">A simple tool to keep track of computational experiments.</span>
+</div>
+
+<div>
+    <img src="apalis/_static/apalislogo.svg" style="vertical-align: middle;" height="100"/>
+    <span style="vertical-align: middle;">A python library for parallel computing with little overhead.</span>
+</div>
 
