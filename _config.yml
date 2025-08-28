@@ -2,6 +2,12 @@ theme: jekyll-theme-cayman
 
 title: Daniel Alcalde Puente
 
+email:
+   show: true
+   domain: gmail.com
+   user: d.alcalde.puente
+  
+
 twitter:
   show: false
   user: AlcaldePuente
