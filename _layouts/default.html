@@ -14,8 +14,8 @@
     <script src="XORCipher.js"></script>
     <script>
         function get_email() {
-            var address1 = "gmail.com"
-            var address2 = "d.alcalde.puente"
+            var address1 = "@{{ site.email.domain }}"
+            var address2 = "@{{ site.email.user }}"
             var address = address2 + "@" + address1
             return address
         }
