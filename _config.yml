@@ -10,10 +10,6 @@ linkedin:
   show: true
   url: https://www.linkedin.com/in/daniel-alcalde-puente-563770174/
 
-email:
-  show: true
-  url: mailto:d.alcalde.puente@gmail.com
-
 github:
   repository_url: https://github.com/danielalcalde
   is_project_page: true
