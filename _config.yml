@@ -19,3 +19,7 @@ linkedin:
 github:
   repository_url: https://github.com/danielalcalde
   is_project_page: true
+
+scholar:
+  show: true
+  user: NOEzgyIAAAAJ
