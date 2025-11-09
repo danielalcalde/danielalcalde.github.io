@@ -87,7 +87,7 @@ I have had many interests that have come and gone throughout my life, but unders
 </div>
 
 <div class="project">
-  <a class="project-link" href="https://github.com/danielalcalde/AutoMeetingNotes">
+  <a class="project-link" href="https://github.com/danielalcalde/automeeting-notes">
     <div class="project-logo"><strong>AutoMeeting<br>Notes</strong></div>
   </a>
   <div class="project-desc">
@@ -140,7 +140,7 @@ I have had many interests that have come and gone throughout my life, but unders
 </div>
 
 <div class="project">
-  <a class="project-link" href="https://github.com/NeTeNeSyQuMa/QuantumNaturalfPEPS.jl">
+  <a class="project-link" href="https://github.com/KonradSchroeder/QuantumNaturalfPEPS.jl">
     <div class="project-logo" style="font-size:1em;"><strong>QuantumNaturalfPEPS.jl</strong></div>
   </a>
   <div class="project-desc">
