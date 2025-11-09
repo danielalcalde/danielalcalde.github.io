@@ -11,18 +11,47 @@ I have had many interests that have come and gone throughout my life, but unders
 
 ## Open Source Projects
 
- <div>
- <a href="https://github.com/danielalcalde/encap"> <img src="https://user-images.githubusercontent.com/53435922/217352989-c400e86c-31e0-40cb-a734-004e5994dda8.svg" style="vertical-align: middle;" width="200"/> </a>
-    <span style="vertical-align: middle;margin-left:1em">A simple tool to keep track of computational experiments.</span>
-</div>
-<br>
- <div>
- AutoMeeting Notes
-    <span style="vertical-align: middle;margin-left:1em">A Python webui for generating speaker-diarized meeting transcriptions from audio recordings</span>
-</div>
-<br>
-<div>
-    <a href="https://danielalcalde.github.io/apalis/"> <img src="apalis/_static/apalislogo.svg" style="vertical-align: middle;" width="200"/></a>
-    <span style="vertical-align: middle;margin-left:1em">A python library for parallel computing with little overhead.</span>
+<style>
+.project {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1em;
+}
+.project-logo {
+  width: 200px;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.8em;
+  color: #444;
+}
+.project-desc {
+  margin-left: 1em;
+  font-family: 'Poppins', sans-serif;
+}
+</style>
+
+<div class="project">
+  <a href="https://github.com/danielalcalde/encap">
+    <img src="https://user-images.githubusercontent.com/53435922/217352989-c400e86c-31e0-40cb-a734-004e5994dda8.svg"
+         class="project-logo" style="width:200px;"/>
+  </a>
+  <div class="project-desc">
+    A simple tool to keep track of computational experiments.
+  </div>
 </div>
 
+<div class="project">
+  <div class="project-logo"><strong>AutoMeeting<br>Notes</strong></div>
+  <div class="project-desc">
+    A Python web UI for generating speaker-diarized meeting transcriptions from audio recordings.
+  </div>
+</div>
+
+<div class="project">
+  <a href="https://danielalcalde.github.io/apalis/">
+    <img src="apalis/_static/apalislogo.svg" class="project-logo" style="width:200px;"/>
+  </a>
+  <div class="project-desc">
+    A Python library for parallel computing with little overhead.
+  </div>
+</div>
