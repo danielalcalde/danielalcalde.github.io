@@ -48,6 +48,11 @@
       {% if site.email.show %}
         <a class="btn" onclick="open_email();"><span class=social_text id="email">Email</span></a>
       {% endif %}
+      {% if site.scholar.show %}
+      <a href="https://scholar.google.com/citations?user={{ site.scholar.user }}" class="btn">
+        <img class="social_image" src="files/google-scholar.svg" alt="Google Scholar" />
+      </a>
+    {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
