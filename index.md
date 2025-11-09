@@ -20,7 +20,7 @@ I have had many interests that have come and gone throughout my life, but unders
 
 .project-link {
   display: inline-block;
-  width: 200px;
+  width: 220px;
   text-decoration: none;
   color: inherit;
 }
@@ -29,7 +29,7 @@ I have had many interests that have come and gone throughout my life, but unders
   width: 200px;
   text-align: center;
   font-family: 'Amatic SC', cursive;
-  font-size: 1.8em;
+  font-size: 1.5em;
   color: #444;
   display: flex;
   align-items: center;
