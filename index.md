@@ -132,7 +132,7 @@ I have had many interests that have come and gone throughout my life, but unders
 
 <div class="project">
   <a class="project-link" href="https://github.com/NeTeNeSyQuMa/QuantumNaturalGradient.jl">
-    <div class="project-logo" font-size="1em"><strong>QuantumNaturalGradient.jl</strong></div>
+    <div class="project-logo" style="font-size:1em;"><strong>QuantumNaturalGradient.jl</strong></div>
   </a>
   <div class="project-desc">
     Efficient and scalable natural gradient Julia library for time evolution and optimization.
@@ -141,7 +141,7 @@ I have had many interests that have come and gone throughout my life, but unders
 
 <div class="project">
   <a class="project-link" href="https://github.com/NeTeNeSyQuMa/QuantumNaturalfPEPS.jl">
-    <div class="project-logo" font-size="1em"><strong>QuantumNaturalfPEPS.jl</strong></div>
+    <div class="project-logo" style="font-size:1em;"><strong>QuantumNaturalfPEPS.jl</strong></div>
   </a>
   <div class="project-desc">
     A Julia package for simulating and optimizing quantum many-body systems using the PEPS (Projected Entangled Pair States) framework via Stochastic Natural Gradient.
