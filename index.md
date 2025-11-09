@@ -15,27 +15,61 @@ I have had many interests that have come and gone throughout my life, but unders
 .project {
   display: flex;
   align-items: center;
-  margin-bottom: 1em;
+  margin-bottom: 1.2em;
 }
+
 .project-link {
   display: inline-block;
-  width: 200px;           /* same width as logos */
-  text-decoration: none;  /* no underline on the block */
-  color: inherit;         /* keep text color consistent */
+  width: 200px;
+  text-decoration: none;
+  color: inherit;
 }
+
 .project-logo {
   width: 200px;
   text-align: center;
   font-family: 'Amatic SC', cursive;
   font-size: 1.8em;
   color: #444;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
 }
+
 .project-desc {
   margin-left: 1em;
   font-family: 'Poppins', sans-serif;
+  font-size: 0.9em;
+  line-height: 1.4em;
+  max-width: 600px;
 }
+
 .project-link:hover .project-logo {
-  text-decoration: underline; /* subtle hover cue */
+  text-decoration: underline;
+}
+
+/* Slightly smaller text for entries without a logo */
+.project:not(:has(img)) .project-desc {
+  font-size: 0.85em;
+  line-height: 1.4em;
+}
+
+/* Responsive layout */
+@media (max-width: 700px) {
+  .project {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .project-link, .project-logo {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0.3em;
+  }
+  .project-desc {
+    margin-left: 0;
+    max-width: 100%;
+  }
 }
 </style>
 
@@ -74,7 +108,7 @@ I have had many interests that have come and gone throughout my life, but unders
   </div>
 </div>
 
-## Open Source Projects - Physics
+## Physics Packages
 
 <div class="project">
   <a class="project-link" href="https://github.com/NeTeNeSyQuMa/ParallelGradient.jl">
@@ -90,7 +124,7 @@ I have had many interests that have come and gone throughout my life, but unders
     <div class="project-logo"><strong>mVQE</strong></div>
   </a>
   <div class="project-desc">
-    Implementation of Measurement and Feedback-Based Variational Circuits
+    Implementation of Measurement and Feedback-Based Variational Circuits.
   </div>
 </div>
 
@@ -104,13 +138,10 @@ I have had many interests that have come and gone throughout my life, but unders
 </div>
 
 <div class="project">
-  <a class="project-link" href="https://github.com/NeTeNeSyQuMa/ParallelGradient.jl">
+  <a class="project-link" href="https://github.com/NeTeNeSyQuMa/QuantumNaturalfPEPS.jl">
     <div class="project-logo"><strong>QuantumNaturalfPEPS.jl</strong></div>
   </a>
   <div class="project-desc">
     A Julia package for simulating and optimizing quantum many-body systems using the PEPS (Projected Entangled Pair States) framework via Stochastic Natural Gradient.
   </div>
 </div>
-
-
-
