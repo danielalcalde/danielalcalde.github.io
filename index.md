@@ -17,6 +17,12 @@ I have had many interests that have come and gone throughout my life, but unders
   align-items: center;
   margin-bottom: 1em;
 }
+.project-link {
+  display: inline-block;
+  width: 200px;           /* same width as logos */
+  text-decoration: none;  /* no underline on the block */
+  color: inherit;         /* keep text color consistent */
+}
 .project-logo {
   width: 200px;
   text-align: center;
@@ -28,12 +34,18 @@ I have had many interests that have come and gone throughout my life, but unders
   margin-left: 1em;
   font-family: 'Poppins', sans-serif;
 }
+.project-link:hover .project-logo {
+  text-decoration: underline; /* subtle hover cue */
+}
 </style>
 
 <div class="project">
-  <a href="https://github.com/danielalcalde/encap">
-    <img src="https://user-images.githubusercontent.com/53435922/217352989-c400e86c-31e0-40cb-a734-004e5994dda8.svg"
-         class="project-logo" style="width:200px;"/>
+  <a class="project-link" href="https://github.com/danielalcalde/encap">
+    <img
+      src="https://user-images.githubusercontent.com/53435922/217352989-c400e86c-31e0-40cb-a734-004e5994dda8.svg"
+      alt="encap logo"
+      style="width:200px; vertical-align:middle;"
+    />
   </a>
   <div class="project-desc">
     A simple tool to keep track of computational experiments.
@@ -41,17 +53,64 @@ I have had many interests that have come and gone throughout my life, but unders
 </div>
 
 <div class="project">
-  <div class="project-logo"><strong>AutoMeeting<br>Notes</strong></div>
+  <a class="project-link" href="https://github.com/danielalcalde/AutoMeetingNotes">
+    <div class="project-logo"><strong>AutoMeeting<br>Notes</strong></div>
+  </a>
   <div class="project-desc">
     A Python web UI for generating speaker-diarized meeting transcriptions from audio recordings.
   </div>
 </div>
 
 <div class="project">
-  <a href="https://danielalcalde.github.io/apalis/">
-    <img src="apalis/_static/apalislogo.svg" class="project-logo" style="width:200px;"/>
+  <a class="project-link" href="https://danielalcalde.github.io/apalis/">
+    <img
+      src="apalis/_static/apalislogo.svg"
+      alt="apalis logo"
+      style="width:200px; vertical-align:middle;"
+    />
   </a>
   <div class="project-desc">
     A Python library for parallel computing with little overhead.
   </div>
 </div>
+
+## Open Source Projects - Physics
+
+<div class="project">
+  <a class="project-link" href="https://github.com/NeTeNeSyQuMa/ParallelGradient.jl">
+    <div class="project-logo"><strong>ParallelGradient.jl</strong></div>
+  </a>
+  <div class="project-desc">
+    Fast, parallel automatic differentiation in Julia using distributed and threaded computing. Optimized for reduced data transfer and supports scalar and Flux models.
+  </div>
+</div>
+
+<div class="project">
+  <a class="project-link" href="https://github.com/NeTeNeSyQuMa/mVQE">
+    <div class="project-logo"><strong>mVQE</strong></div>
+  </a>
+  <div class="project-desc">
+    Implementation of Measurement and Feedback-Based Variational Circuits
+  </div>
+</div>
+
+<div class="project">
+  <a class="project-link" href="https://github.com/NeTeNeSyQuMa/QuantumNaturalGradient.jl">
+    <div class="project-logo"><strong>QuantumNaturalGradient.jl</strong></div>
+  </a>
+  <div class="project-desc">
+    Efficient and scalable natural gradient Julia library for time evolution and optimization.
+  </div>
+</div>
+
+<div class="project">
+  <a class="project-link" href="https://github.com/NeTeNeSyQuMa/ParallelGradient.jl">
+    <div class="project-logo"><strong>QuantumNaturalfPEPS.jl</strong></div>
+  </a>
+  <div class="project-desc">
+    A Julia package for simulating and optimizing quantum many-body systems using the PEPS (Projected Entangled Pair States) framework via Stochastic Natural Gradient.
+  </div>
+</div>
+
+
+
