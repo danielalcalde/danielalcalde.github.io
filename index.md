@@ -88,7 +88,7 @@ I have had many interests that have come and gone throughout my life, but unders
 
 <div class="project">
   <a class="project-link" href="https://github.com/danielalcalde/ocr_invoice">
-    <div class="project-logo"><strong>ocr_invoice<br>Notes</strong></div>
+    <div class="project-logo"><strong>OCR invoice</strong></div>
   </a>
   <div class="project-desc">
     Python CLI that watches local or Dropbox invoices, extracts billing data via OCR+LLM/VLLM, and generates GiroCode-ready PDFs to automate paying and submissions to insurance.
