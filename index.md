@@ -144,7 +144,7 @@ I have had many interests that have come and gone throughout my life, but unders
     <div class="project-logo" style="font-size:1em;"><strong>QuantumNaturalGradient.jl</strong></div>
   </a>
   <div class="project-desc">
-    Efficient and scalable natural gradient Julia library for time evolution and optimization.
+    Efficient and scalable quantum natural gradient Julia library for time evolution and optimization.
   </div>
 </div>
 
